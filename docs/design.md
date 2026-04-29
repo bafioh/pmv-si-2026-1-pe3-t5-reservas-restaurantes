@@ -128,7 +128,7 @@ Após preencher os dados, a ação de busca conduz naturalmente para a próxima 
 
 Figura 1 – Tela Inicial do Sistema Reserva Fácil
 
-<img src="./img/prototype/home-1.png" style="width:70%;">
+<img src="./img/prototype/home-1.png" style="width:100%;">
 
 ---
 
