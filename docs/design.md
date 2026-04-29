@@ -58,14 +58,15 @@ Os protótipos apresentados a seguir são importantes para validar a usabilidade
 
 ---
 
-Protótipo 1 – Tela Inicial / Landing Page
-1. Objetivo da Tela
+## Protótipo 1 – Tela Inicial / Landing Page
+
+### 1. Objetivo da Tela
 
 A tela inicial do sistema Reserva Fácil tem como objetivo apresentar a proposta da plataforma e permitir que o usuário inicie rapidamente a busca por restaurantes disponíveis. Nessa interface, o usuário pode informar cidade, data, horário e quantidade de pessoas, facilitando a localização de estabelecimentos compatíveis com sua necessidade.
 
 Além disso, a tela apresenta seções explicativas sobre o funcionamento do sistema, perguntas frequentes e atalhos para autenticação, contribuindo para uma navegação clara desde o primeiro acesso.
 
-2. Princípios Gestálticos Aplicados
+### 2. Princípios Gestálticos Aplicados
 
 Proximidade:
 Os campos de pesquisa (cidade, data, horário e pessoas) estão posicionados próximos entre si, formando um grupo visual único relacionado ao processo de busca.
@@ -85,7 +86,7 @@ A organização vertical dos elementos conduz naturalmente o olhar do usuário: 
 Região comum:
 As seções “Como funciona” e “Perguntas frequentes” estão agrupadas em áreas próprias, permitindo melhor organização do conteúdo.
 
-3. Recomendações Ergonômicas
+### 3. Recomendações Ergonômicas
 
 Usabilidade:
 A interface apresenta navegação simples e objetiva, permitindo que o usuário compreenda rapidamente como utilizar o sistema.
@@ -102,7 +103,7 @@ O usuário consegue iniciar sua busca em poucos passos, sem necessidade de cadas
 Aprendizado rápido:
 Os textos explicativos e perguntas frequentes auxiliam novos usuários no entendimento do funcionamento da plataforma.
 
-4. Regras de Ouro de Shneiderman
+### 4. Regras de Ouro de Shneiderman
 
 Consistência:
 Botões, campos e seções seguem padrão visual uniforme em toda a interface.
@@ -127,7 +128,7 @@ Após preencher os dados, a ação de busca conduz naturalmente para a próxima 
 
 Figura 1 – Tela Inicial do Sistema Reserva Fácil
 
-(Inserir imagem da tela inicial do sistema)
+<img src="../docs/img/prototypes/home-1.png" style="width:70%;">
 
 ---
 
