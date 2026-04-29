@@ -126,9 +126,8 @@ As opções necessárias estão visíveis na própria tela, sem exigir memoriza�
 Fechamento de diálogo:
 Após preencher os dados, a ação de busca conduz naturalmente para a próxima etapa do sistema.
 
-Figura 1 – Tela Inicial do Sistema Reserva Fácil
-
 <img src="./img/prototype/home-1.png" style="width:100%;">
+<img src="./img/prototype/home-2.png" style="width:100%;">
 
 ---
 
