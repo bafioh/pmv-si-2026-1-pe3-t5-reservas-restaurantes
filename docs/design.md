@@ -58,6 +58,78 @@ Os protótipos apresentados a seguir são importantes para validar a usabilidade
 
 ---
 
+Protótipo 1 – Tela Inicial / Landing Page
+1. Objetivo da Tela
+
+A tela inicial do sistema Reserva Fácil tem como objetivo apresentar a proposta da plataforma e permitir que o usuário inicie rapidamente a busca por restaurantes disponíveis. Nessa interface, o usuário pode informar cidade, data, horário e quantidade de pessoas, facilitando a localização de estabelecimentos compatíveis com sua necessidade.
+
+Além disso, a tela apresenta seções explicativas sobre o funcionamento do sistema, perguntas frequentes e atalhos para autenticação, contribuindo para uma navegação clara desde o primeiro acesso.
+
+2. Princípios Gestálticos Aplicados
+
+Proximidade:
+Os campos de pesquisa (cidade, data, horário e pessoas) estão posicionados próximos entre si, formando um grupo visual único relacionado ao processo de busca.
+
+Similaridade:
+Os campos de entrada seguem o mesmo padrão visual, com dimensões semelhantes, bordas arredondadas e alinhamento uniforme. Os cards informativos também mantêm padronização estética.
+
+Figura-fundo:
+O formulário central se destaca do plano de fundo por meio do contraste entre cores suaves e elementos brancos, facilitando a identificação da área principal de interação.
+
+Ponto focal:
+O botão “Buscar restaurantes” apresenta cor de destaque, chamando a atenção do usuário para a principal ação da tela.
+
+Continuidade:
+A organização vertical dos elementos conduz naturalmente o olhar do usuário: cabeçalho → área de busca → seção explicativa → perguntas frequentes → rodapé.
+
+Região comum:
+As seções “Como funciona” e “Perguntas frequentes” estão agrupadas em áreas próprias, permitindo melhor organização do conteúdo.
+
+3. Recomendações Ergonômicas
+
+Usabilidade:
+A interface apresenta navegação simples e objetiva, permitindo que o usuário compreenda rapidamente como utilizar o sistema.
+
+Carga cognitiva reduzida:
+As informações estão distribuídas em blocos claros e organizados, evitando excesso de elementos simultâneos.
+
+Legibilidade:
+Há boa hierarquia tipográfica, contraste adequado entre texto e fundo e tamanhos de fonte confortáveis para leitura.
+
+Eficiência de uso:
+O usuário consegue iniciar sua busca em poucos passos, sem necessidade de cadastro prévio.
+
+Aprendizado rápido:
+Os textos explicativos e perguntas frequentes auxiliam novos usuários no entendimento do funcionamento da plataforma.
+
+4. Regras de Ouro de Shneiderman
+
+Consistência:
+Botões, campos e seções seguem padrão visual uniforme em toda a interface.
+
+Feedback informativo:
+Os campos respondem à interação do usuário e os botões indicam claramente ações executáveis.
+
+Atalhos:
+Os botões “Entrar” e “Criar conta” permitem acesso rápido às funcionalidades de autenticação.
+
+Prevenção de erros:
+A divisão lógica dos campos reduz chances de preenchimento incorreto.
+
+Usuário no controle:
+O usuário escolhe livremente os critérios de busca antes de prosseguir.
+
+Redução da carga de memória:
+As opções necessárias estão visíveis na própria tela, sem exigir memorização de etapas.
+
+Fechamento de diálogo:
+Após preencher os dados, a ação de busca conduz naturalmente para a próxima etapa do sistema.
+
+Figura 1 – Tela Inicial do Sistema Reserva Fácil
+
+(Inserir imagem da tela inicial do sistema)
+
+---
 
 ## 4.4 Testes com Protótipos
 
