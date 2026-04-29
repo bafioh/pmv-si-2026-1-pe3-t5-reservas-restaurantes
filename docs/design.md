@@ -43,68 +43,20 @@
 <img width="10890" height="11439" alt="6" src="https://github.com/user-attachments/assets/e9fd17f7-6e10-470f-9476-6c9d0de1f398" />
 
 ## 4.3 Protótipos das Interfaces
-Os protótipos desenvolvidos são de alta fidelidade, apresentando elevado nível de detalhamento visual e funcional, com forte aproximação ao produto final. Foram projetados para ambiente digital (web/mobile), com foco na simulação realista da interação do usuário.
-O protótipo possui navegação estruturada e elementos interativos que permitem a realização de fluxos completos, como busca de restaurantes, realização de reservas e gerenciamento de informações pessoais.
-O principal objetivo do protótipo é possibilitar a validação da interface por meio de testes com usuários na etapa seguinte do projeto.
 
-### Visão Geral dos Princípios da Gestalt:
+Nesta seção são apresentados os protótipos de alta fidelidade desenvolvidos para o sistema Reserva Fácil. Esses protótipos possuem elevado nível de detalhamento visual e funcional, buscando representar de forma próxima o produto final a ser implementado.
 
-Proximidade:
-Aplicado nas telas 1, 4, 7 e 13, onde elementos relacionados são posicionados próximos entre si, formando agrupamentos perceptivos claros. Informações de um mesmo restaurante são organizadas em cards (telas 1 e 4), assim como os dados de uma mesma reserva (tela 7). Na tela 13, a agenda semanal segue essa lógica, facilitando a leitura em blocos e a percepção de relação entre elementos.
+O sistema foi projetado com o objetivo de facilitar a busca por restaurantes, a realização de reservas on-line e o gerenciamento de informações por clientes e estabelecimentos cadastrados. As interfaces contemplam fluxos completos de navegação, incluindo cadastro, login, consulta de restaurantes, reservas e funcionalidades administrativas.
 
-Figura-fundo:
-Utilizado por meio de contraste de cor, tamanho e hierarquia tipográfica, permitindo distinguir elementos interativos do conteúdo informativo. O nome do restaurante se destaca pelo tamanho e peso da fonte, enquanto áreas de ação são visualmente separadas do fundo.
+Durante o desenvolvimento das telas, foram aplicados princípios de Interação Humano-Computador, considerando os princípios da Gestalt, recomendações ergonômicas e as Regras de Ouro de Ben Shneiderman. Esses conceitos contribuem para tornar a navegação mais intuitiva, organizada e eficiente.
 
-Ponto focal:
-A cor vermelha é utilizada como elemento de alto contraste para direcionar a atenção do usuário às ações principais. Botões como “Reservar” e “Buscar restaurantes” (tela 1), bem como “Entrar” (tela 2), funcionam como pontos focais. Esse padrão se repete nas telas 3, 5, 6, 8 e 12.
+Entre os princípios utilizados, destacam-se a proximidade e similaridade no agrupamento de elementos relacionados, figura-fundo para melhor distinção das áreas interativas e ponto focal em botões de ações principais. No aspecto ergonômico, buscou-se reduzir a carga cognitiva do usuário por meio de organização clara das informações, boa legibilidade e navegação simplificada.
 
-Similaridade:
-Elementos com mesma função apresentam características visuais consistentes. Os cards seguem um padrão estrutural uniforme, e os botões de horários disponíveis possuem formato e cor semelhantes (quinas arredondadas e cor amarela), enquanto os botões de ação principal utilizam vermelho. Isso reforça a categorização funcional e melhora a previsibilidade da interface.
+Quanto às Regras de Ouro, o sistema prioriza consistência entre telas, feedback informativo após ações realizadas, prevenção de erros por validações, liberdade de navegação e redução da necessidade de memorização de informações.
 
-Região comum:
-Aplicado por meio da delimitação visual de áreas distintas dentro da interface. Na tela 4, as seções “Minhas Reservas” e “Minhas Avaliações” são separadas por containers, permitindo que cada conjunto de informações seja percebido como independente.
+Os protótipos apresentados a seguir são importantes para validar a usabilidade do sistema e identificar melhorias antes da implementação final da solução.
 
-
-### Visão Geral das Recomendações Ergonômicas:
-
-Usabilidade:
-A interface apresenta estrutura simples, com organização clara das informações e uso de linguagem acessível, favorecendo a compreensão e a eficiência de uso.
-
-Carga cognitiva:
-A utilização de padrões consistentes, organização visual e fluxo de navegação definido reduz a carga cognitiva, permitindo aprendizado rápido e tomada de decisão mais eficiente.
-
-Legibilidade e acessibilidade:
-O uso de contraste adequado, hierarquia tipográfica e dimensionamento apropriado de elementos interativos garante boa legibilidade e reduz a fadiga visual. A interface oferece recursos como ajuste de fonte e modo escuro.
-
-Responsividade:
-A interface adapta-se a diferentes dispositivos, mantendo consistência visual e funcional.
-
-
-### Visão Geral das Regras de Ouro de Schneiderman
-
-Consistência:
-Padronização de termos, cores, ícones e componentes ao longo da interface.
-
-Atalhos:
-Menu de navegação que oferece acesso direto às principais funcionalidades do sistema.
-
-Feedback informativo:
-Alterações visuais (como mudança de cor ao clicar) e mensagens de sistema indicam o resultado das ações realizadas.
-
-Diálogo com o usuário:
-Mensagens de confirmação são apresentadas após ações importantes, como conclusão de reserva, cancelamento ou alteração de dados.
-
-Reversão de ações:
-O usuário pode cancelar, interromper ou retornar etapas durante a execução de tarefas.
-
-Prevenção de erros:
-Campos com validação e mensagens orientativas auxiliam na redução de erros durante a interação.
-
-Usuário no controle:
-O sistema permite que o usuário conduza suas ações livremente, sem imposições rígidas de fluxo.
-
-Redução da carga de memória:
-Informações inseridas são reapresentadas em etapas seguintes, evitando que o usuário precise memorizar dados.
+---
 
 
 ## 4.4 Testes com Protótipos
